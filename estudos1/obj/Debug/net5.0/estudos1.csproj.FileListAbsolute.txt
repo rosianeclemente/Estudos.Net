@@ -1,0 +1,16 @@
+/home/rosiane/Estudos.Net/estudos1/bin/Debug/net5.0/estudos1
+/home/rosiane/Estudos.Net/estudos1/bin/Debug/net5.0/estudos1.deps.json
+/home/rosiane/Estudos.Net/estudos1/bin/Debug/net5.0/estudos1.runtimeconfig.json
+/home/rosiane/Estudos.Net/estudos1/bin/Debug/net5.0/estudos1.runtimeconfig.dev.json
+/home/rosiane/Estudos.Net/estudos1/bin/Debug/net5.0/estudos1.dll
+/home/rosiane/Estudos.Net/estudos1/bin/Debug/net5.0/ref/estudos1.dll
+/home/rosiane/Estudos.Net/estudos1/bin/Debug/net5.0/estudos1.pdb
+/home/rosiane/Estudos.Net/estudos1/obj/Debug/net5.0/estudos1.csproj.AssemblyReference.cache
+/home/rosiane/Estudos.Net/estudos1/obj/Debug/net5.0/estudos1.GeneratedMSBuildEditorConfig.editorconfig
+/home/rosiane/Estudos.Net/estudos1/obj/Debug/net5.0/estudos1.AssemblyInfoInputs.cache
+/home/rosiane/Estudos.Net/estudos1/obj/Debug/net5.0/estudos1.AssemblyInfo.cs
+/home/rosiane/Estudos.Net/estudos1/obj/Debug/net5.0/estudos1.csproj.CoreCompileInputs.cache
+/home/rosiane/Estudos.Net/estudos1/obj/Debug/net5.0/estudos1.dll
+/home/rosiane/Estudos.Net/estudos1/obj/Debug/net5.0/ref/estudos1.dll
+/home/rosiane/Estudos.Net/estudos1/obj/Debug/net5.0/estudos1.pdb
+/home/rosiane/Estudos.Net/estudos1/obj/Debug/net5.0/estudos1.genruntimeconfig.cache
