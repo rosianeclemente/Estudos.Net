@@ -1,0 +1,43 @@
+{
+  "format": 1,
+  "restore": {
+    "/home/rosiane/Estudos.Net/estudos1/estudo1.csproj": {}
+  },
+  "projects": {
+    "/home/rosiane/Estudos.Net/estudos1/estudo1.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/home/rosiane/Estudos.Net/estudos1/estudo1.csproj",
+        "projectName": "estudo1",
+        "projectPath": "/home/rosiane/Estudos.Net/estudos1/estudo1.csproj",
+        "packagesPath": "/home/rosiane/.nuget/packages/",
+        "outputPath": "/home/rosiane/Estudos.Net/estudos1/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/home/rosiane/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net5.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net5.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net5.0": {
+          "runtimeIdentifierGraphPath": "/usr/share/dotnet/sdk/3.1.414/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
